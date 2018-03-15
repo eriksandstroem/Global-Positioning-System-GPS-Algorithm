@@ -1,2 +1,2 @@
 # Global-Positioning-System-GPS-Algorithm
-Computer assignment in ECE174, UCSD
+The objective of this project is to utilize nonlinear optimization algorithms to show the mathematical steps needed to calculate the position of a receiver on earth to high accuracy, when the receiver clock is not accurate. This can be done by using satellite data from four satellites, while only three are needed when the accuracy of the receiver clock is high. The problem is relevant in order to utilize the non accurate clock in modern day cell phones in order to determine the position of the phone. Two methods of optimization will be used, the gradient descent method and the Gauss-Newton method, and their performance will be compared. MatLab is used as a tool to implement the concept.
